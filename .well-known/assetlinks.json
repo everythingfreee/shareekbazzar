@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.shaheer.shareekbazar",
+      "sha256_cert_fingerprints": [
+        "fb:18:73:f9:09:a4:8f:21:47:78:d3:d6:16:3a:b7:70:32:a7:6b:a2:7d:79:ba:71:3d:5d:3f:5a:73:c4:15:0f",
+        "f4:85:ca:a5:a9:ce:8c:b0:95:ee:2a:43:ed:af:05:68:b3:75:8c:3e:fe:8f:1e:70:cc:3f:94:89:2e:4b:97:5e",
+        "b5:53:1a:6d:37:ec:aa:df:fe:b6:56:fa:10:c9:21:5d:3c:79:37:47:33:60:28:9a:b5:4f:b6:01:8a:38:29:66"
+      ]
+    }
+  }
+]
